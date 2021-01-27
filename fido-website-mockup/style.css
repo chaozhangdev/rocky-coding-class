@@ -1,0 +1,30 @@
+.s1 {
+  background-image: url(https://images.ctfassets.net/t00ajdlq0g9p/1Lvjo7HWVe30Nssn6kH7rJ/afe18321d3e97c7083b97c27c763e9c5/Here_En_9gb.gif);
+  position: relative;
+}
+
+.myS1Content {
+  display: inline-block;
+  background-color: white;
+  margin: 50px;
+  padding: 30px;
+
+}
+
+.mybtn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(255, 255, 28);
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+}

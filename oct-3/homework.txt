@@ -1,0 +1,4 @@
+1 use any properties for joke api url
+conditionally render contetns accorind to the type
+
+2 try 
